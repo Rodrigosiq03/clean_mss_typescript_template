@@ -25,20 +25,20 @@ It's simple, you'll need this little requirements
 
 - This first command that you'll need to run it on your terminal is about ☢ Git ☢
 
-```sh
+```zsh
 git clone https://github.com/Rodrigosiq03/clean_mss_typescript_template.git
 ```
 
 - Now you're with the project in your machine 🔥🔥 Let's enter there and install all the dependencies!!
 
-```sh
+```zsh
 cd clean_mss_typescript_template
 yarn
 ```
 
 ⚠ OR ⚠
 
-```sh
+```zsh
 cd clean_mss_typescript_template
 npm i
 ```
@@ -52,13 +52,13 @@ STAGE=TEST
 
 - Now you're <span style="color: purple">TOTALLY</span> prepáred to run the project, so let's run it!!
 
-```sh
+```zsh
 yarn start
 ```
 
 ⚠ OR ⚠
 
-```sh
+```zsh
 npm start
 ```
 
