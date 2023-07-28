@@ -1,4 +1,4 @@
-import { BaseError } from "./base_error";
+import { BaseError } from './base_error'
 
 export class MissingParameters extends BaseError {
   constructor(message: string) {

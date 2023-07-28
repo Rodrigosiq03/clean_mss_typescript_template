@@ -14,4 +14,4 @@ route.get('/', (req: Request, res: Response) => {
 
 app.use(route)
 
-app.listen(3333, () => console.log( "\u001b[1;31mServer running on port \u001b[1;32m3333⚡" ))
+app.listen(3333, () => console.log( '\u001b[1;31mServer running on port \u001b[1;32m3333⚡' ))
