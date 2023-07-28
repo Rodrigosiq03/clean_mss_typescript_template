@@ -25,20 +25,20 @@ It's simple, you'll need this little requirements
 
 - This first command that you'll need to run it on your terminal is about ☢ Git ☢
 
-```
+```sh
 git clone https://github.com/Rodrigosiq03/clean_mss_typescript_template.git
 ```
 
 - Now you're with the project in your machine 🔥🔥 Let's enter there and install all the dependencies!!
 
-```
+```sh
 cd clean_mss_typescript_template
 yarn
 ```
 
 ⚠ OR ⚠
 
-```
+```sh
 cd clean_mss_typescript_template
 npm i
 ```
@@ -46,19 +46,19 @@ npm i
 - Before you run the project you need to <span style="color: green">CREATE</span> a file called 🧙‍♂️ <span style="color: yellow">.env</span> 🧙‍♂️
 - After creating you'll set a environment variable called <span style="color: red">STAGE</span>👽
 
-```
+```.env
 STAGE=TEST
 ```
 
 - Now you're <span style="color: purple">TOTALLY</span> prepáred to run the project, so let's run it!!
 
-```
+```sh
 yarn start
 ```
 
 ⚠ OR ⚠
 
-```
+```sh
 npm start
 ```
 
